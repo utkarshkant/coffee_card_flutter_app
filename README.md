@@ -1,4 +1,4 @@
-# coffee_card
+# COFFEE CARD - Flutter Mobile App
 
 A new Flutter project.
 
